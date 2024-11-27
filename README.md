@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0787-sliding-puzzle](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0787-sliding-puzzle) |
 | [0948-sort-an-array](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0948-sort-an-array) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0787-sliding-puzzle) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Matrix
 |  |
 | ------- |
@@ -46,4 +48,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3189-find-champion-ii](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/3189-find-champion-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 <!---LeetCode Topics End-->
