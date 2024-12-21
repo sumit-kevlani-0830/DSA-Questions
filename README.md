@@ -63,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
+## Tree
+|  |
+| ------- |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/3058-maximum-number-of-k-divisible-components) |
+## Depth-First Search
+|  |
+| ------- |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/3058-maximum-number-of-k-divisible-components) |
 <!---LeetCode Topics End-->
