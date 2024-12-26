@@ -1,18 +1,22 @@
 class Solution {
 public:
-    int answer(vector<int>&nums,int tar,int n,int i,int currsum,vector<vector<int>>&dp){
-        if(currsum>tar || i>n){
-            return 0;
+    int answer(int n,vector<int>&nums,int tar){
+        vector<int>prev(tar+1,0);
+        prev[0] = 1;
+        for(int i = 1;i < n+1;i++){
+            vector<int>curr(tar+1,0);
+            curr[0] = 1;
+            for(int j = 1;j < tar+1;j++){
+                int ans1 = 0;
+                int ans2 = 0;
+                if(j-nums[i-1]>=0)
+                    ans1 = prev[j-nums[i-1]];
+                ans2 = prev[j];
+                curr[j] = ans1+ans2;
+            }
+            prev = curr;
         }
-        if(i==n){
-            return (currsum==tar);
-        }
-        if(dp[i][currsum]!=-1){
-            return dp[i][currsum];
-        }
-        int ans1 = answer(nums,tar,n,i+1,currsum+nums[i],dp);
-        int ans2 = answer(nums,tar,n,i+1,currsum,dp);
-        return dp[i][currsum] = (ans1+ans2);
+        return prev[tar];
     }
     int findTargetSumWays(vector<int>& nums, int target) {
         int n = nums.size();
@@ -20,19 +24,22 @@ public:
         for(int i = 0;i < n;i++){
             sum += nums[i];
         }    
-        if((sum+target)%2!=0){
+        int tar = (sum+target)/2;
+        if(tar<0 || (sum+target)%2!=0){
             return 0;
         }
         else{
-            int currsum = 0;
-            int i = 0;
-            int tar = (sum+target)/2;
-            if(tar<0){
-                return 0;
+            vector<int>arr;
+            int zeroes = 0;
+            for(int i = 0;i < n;i++){
+                if(nums[i]==0){
+                    zeroes++;
+                }
+                else{
+                    arr.push_back(nums[i]);
+                }
             }
-            vector<vector<int>>dp(n+1,vector<int>(tar+1,-1));
-            int ans = answer(nums,tar,n,i,currsum,dp);
-            return ans;
+            return (int)(pow(2.0,zeroes))*answer(arr.size(),arr,tar);
         }
     }
 };
