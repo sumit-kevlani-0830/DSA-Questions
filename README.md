@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0307-range-sum-query-mutable) |
 | [0494-target-sum](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0494-target-sum) |
 | [0787-sliding-puzzle](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0787-sliding-puzzle) |
 | [0948-sort-an-array](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0948-sort-an-array) |
@@ -88,10 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0307-range-sum-query-mutable) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0307-range-sum-query-mutable) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Monotonic Stack
 |  |
@@ -109,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0494-target-sum) |
+## Design
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
