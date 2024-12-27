@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0212-word-search-ii](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0212-word-search-ii) |
 | [0307-range-sum-query-mutable](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0307-range-sum-query-mutable) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0494-target-sum](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0494-target-sum) |
 | [0787-sliding-puzzle](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0787-sliding-puzzle) |
 | [0948-sort-an-array](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0948-sort-an-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
@@ -133,4 +135,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0212-word-search-ii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
