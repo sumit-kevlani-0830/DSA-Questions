@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0212-word-search-ii) |
 | [0307-range-sum-query-mutable](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0307-range-sum-query-mutable) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0212-word-search-ii) |
 | [0787-sliding-puzzle](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0787-sliding-puzzle) |
 ## Graph
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0494-target-sum) |
 ## Design
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0079-word-search) |
 | [0208-implement-trie-prefix-tree](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0212-word-search-ii) |
 | [0648-replace-words](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0648-replace-words) |
