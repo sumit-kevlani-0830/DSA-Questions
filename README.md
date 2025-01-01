@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0212-word-search-ii) |
 | [0307-range-sum-query-mutable](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0307-range-sum-query-mutable) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0212-word-search-ii) |
 | [0787-sliding-puzzle](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0787-sliding-puzzle) |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0011-container-with-most-water) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
