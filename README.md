@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0031-next-permutation) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0031-next-permutation) |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
