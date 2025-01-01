@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0079-word-search](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0212-word-search-ii) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0016-3sum-closest) |
 | [0948-sort-an-array](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0948-sort-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Heap (Priority Queue)
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Binary Search
