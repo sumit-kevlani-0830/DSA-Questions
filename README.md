@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/1063-best-sightseeing-pair) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0648-replace-words) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Trie
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Greedy
 |  |
 | ------- |
