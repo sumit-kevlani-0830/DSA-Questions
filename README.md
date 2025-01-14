@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2358-number-of-ways-to-split-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Two Pointers
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Prefix Sum
 |  |
 | ------- |
