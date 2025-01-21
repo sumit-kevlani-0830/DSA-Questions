@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/1524-string-matching-in-an-array) |
+| [2145-grid-game](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2358-number-of-ways-to-split-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0212-word-search-ii) |
 | [0787-sliding-puzzle](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0787-sliding-puzzle) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2145-grid-game](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2685-first-completely-painted-row-or-column) |
 ## Graph
 |  |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Greedy
