@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0948-sort-an-array](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0948-sort-an-array) |
 | [1502-construct-k-palindrome-strings](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/1502-construct-k-palindrome-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Breadth-First Search
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0648-replace-words) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/1502-construct-k-palindrome-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2685-first-completely-painted-row-or-column](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2494-sum-of-prefix-scores-of-strings) |
