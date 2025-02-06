@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0948-sort-an-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/1063-best-sightseeing-pair) |
+| [1364-tuple-with-same-product](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/1524-string-matching-in-an-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0948-sort-an-array) |
+| [1364-tuple-with-same-product](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0648-replace-words](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/0648-replace-words) |
+| [1364-tuple-with-same-product](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
