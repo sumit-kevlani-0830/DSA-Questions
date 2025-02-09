@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2358-number-of-ways-to-split-array) |
+| [2448-count-number-of-bad-pairs](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Breadth-First Search
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2434-design-a-number-container-system](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2448-count-number-of-bad-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -277,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2434-design-a-number-container-system) |
+## Math
+|  |
+| ------- |
+| [2448-count-number-of-bad-pairs](https://github.com/sumit-kevlani-0830/DSA-Questions/tree/master/2448-count-number-of-bad-pairs) |
 <!---LeetCode Topics End-->
